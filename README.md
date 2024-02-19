@@ -2,5 +2,5 @@ This is a refactor of a webpage with the goal of improving accessiblity and sear
 
 The URL is:https://sd8295642.github.io/module-1-challenge/
 
-It will display as below:
-<href img="./assets/horiseon-demo-image.png">
+It will display as below: 
+[Preview image of refactored website](/assets/horiseon-demo-image.png)
