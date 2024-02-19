@@ -3,4 +3,4 @@ This is a refactor of a webpage with the goal of improving accessiblity and sear
 The URL is:https://sd8295642.github.io/module-1-challenge/
 
 It will display as below:
-01-HTML-Git-CSS\02-Challenge\Assets\01-html-css-git-homework-demo.png
+<href img="./assets/horiseon-demo-image.png">
